@@ -10,3 +10,6 @@ if (x==w):
 else:
   print("no")
 print("thank you")
+
+
+done changese merge
