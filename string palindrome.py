@@ -8,3 +8,4 @@ if (x==w):
   print("yes")
 else:
   print("no")
+print("thank you")
